@@ -2,6 +2,8 @@
 
 Rust est un langage comme un autre avec ses spécificités. Mais beaucoup s'en font tout un monde (une sorte d'élitisme inutile s'est installé qutour de ce langage). J'espère que ce projet vous aidera à franchir le pas, mais n'oubliez pas de lire la documentation officielle (https://doc.rust-lang.org/book/), lire des livres, blog posts et demander aux copains, ...
 
+**[🍊 Open with Gitpod](https://gitpod.io/#https://github.com/bots-garden/apprendre-rust-en-30-mins)**
+
 ### Étape 0: Installation de Rust
 
 Vous êtes dans un projet "Gitpodifié", donc vous n'avez rien à installer. Sinon, l'installation de Rust est plutôt triviale, je vous laisse en juger: https://doc.rust-lang.org/book/ch01-01-installation.html
